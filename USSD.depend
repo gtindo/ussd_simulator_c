@@ -1,0 +1,338 @@
+# depslib dependency file v1.0
+1461189174 source:/home/gtindo_box/Lab/USSD/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"server.h"
+	"codes.h"
+	"common.h"
+	"gestCompte.h"
+
+1461193194 e.h"
+
+1461188512 source:/home/gtindo_box/Lab/USSD/server.c
+	"server.h"
+	"codes.h"
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461435410 
+
+1461173785 source:/home/gtindo_box/Lab/USSD/client.c
+	"client.h"
+	"common.h"
+	"server.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461053955 /home/gtindo_box/Lab/USSD/client.h
+
+1461191467 /home/gtindo_box/Lab/USSD/server.h
+
+1461183510 source:/home/gtindo_box/Lab/USSD/codes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"codes.h"
+	"common.h"
+
+1461181115 /home/gtindo_box/Lab/USSD/codes.h
+
+1461187676 /home/gtindo_box/Lab/USSD/common.h
+
+1461056521 source:/home/gtindo_box/Lab/USSD/services.c
+
+1461176376 source:/home/gtindo_box/Lab/USSD/common.c
+	<stdio.h>
+	<time.h>
+	"common.h"
+
+1461175218 source:/home/gtindo_box/Lab/USSD/gestCompte.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<time.h>
+	"gestCompte.h"
+	"common.h"
+
+1461168814 /home/gtindo_box/Lab/USSD/gestCompte.h
+
+1461173785 source:e:\yvan\ussd\client.c
+	"client.h"
+	"common.h"
+	"server.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461053955 e:\yvan\ussd\client.h
+
+1461187676 e:\yvan\ussd\common.h
+
+1461191467 e:\yvan\ussd\server.h
+
+1461183510 source:e:\yvan\ussd\codes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"codes.h"
+	"common.h"
+
+1461181115 e:\yvan\ussd\codes.h
+
+1461176376 source:e:\yvan\ussd\common.c
+	<stdio.h>
+	<time.h>
+	"common.h"
+
+1461175218 source:e:\yvan\ussd\gestcompte.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<time.h>
+	"gestCompte.h"
+	"common.h"
+
+1461168814 e:\yvan\ussd\gestcompte.h
+
+1461193194 source:e:\yvan\ussd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"server.h"
+	"codes.h"
+	"common.h"
+	"gestCompte.h"
+
+1461188512 source:e:\yvan\ussd\server.c
+	"server.h"
+	"codes.h"
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461436821 source:c:\users\gilberto\documents\ussd\client.c
+	"client.h"
+	"common.h"
+	"server.h"
+	"codes.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461408517 c:\users\gilberto\documents\ussd\client.h
+
+1461392777 c:\users\gilberto\documents\ussd\common.h
+
+1461394196 c:\users\gilberto\documents\ussd\server.h
+
+1461238439 source:c:\users\gilberto\documents\ussd\codes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"codes.h"
+	"common.h"
+
+1461238445 c:\users\gilberto\documents\ussd\codes.h
+
+1461353984 source:c:\users\gilberto\documents\ussd\common.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"common.h"
+
+1461314155 source:c:\users\gilberto\documents\ussd\gestcompte.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<time.h>
+	"gestCompte.h"
+	"common.h"
+
+1461168814 c:\users\gilberto\documents\ussd\gestcompte.h
+
+1461435565 source:c:\users\gilberto\documents\ussd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"client.h"
+	"server.h"
+	"codes.h"
+	"common.h"
+	"gestCompte.h"
+	"cartes.h"
+
+1461435410 source:c:\users\gilberto\documents\ussd\server.c
+	"server.h"
+	"codes.h"
+	"common.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461335619 source:c:\users\gilberto\documents\ussd\cartes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"common.h"
+	"server.h"
+	"cartes.h"
+
+1461394181 c:\users\gilberto\documents\ussd\cartes.h
+
+1461335619 source:c:\users\gtindo\documents\ussd\cartes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"common.h"
+	"server.h"
+	"cartes.h"
+
+1461392777 c:\users\gtindo\documents\ussd\common.h
+
+1461394196 c:\users\gtindo\documents\ussd\server.h
+
+1461394181 c:\users\gtindo\documents\ussd\cartes.h
+
+1461436821 source:c:\users\gtindo\documents\ussd\client.c
+	"client.h"
+	"common.h"
+	"server.h"
+	"codes.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461408517 c:\users\gtindo\documents\ussd\client.h
+
+1461238445 c:\users\gtindo\documents\ussd\codes.h
+
+1461238439 source:c:\users\gtindo\documents\ussd\codes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"codes.h"
+	"common.h"
+
+1461353984 source:c:\users\gtindo\documents\ussd\common.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"common.h"
+
+1461314155 source:c:\users\gtindo\documents\ussd\gestcompte.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<time.h>
+	"gestCompte.h"
+	"common.h"
+
+1461168814 c:\users\gtindo\documents\ussd\gestcompte.h
+
+1461435565 source:c:\users\gtindo\documents\ussd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"client.h"
+	"server.h"
+	"codes.h"
+	"common.h"
+	"gestCompte.h"
+	"cartes.h"
+
+1461435410 source:c:\users\gtindo\documents\ussd\server.c
+	"server.h"
+	"codes.h"
+	"common.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461335619 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/cartes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"common.h"
+	"server.h"
+	"cartes.h"
+
+1461392777 /media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/common.h
+
+1461394196 /media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/server.h
+
+1461394181 /media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/cartes.h
+
+1461436821 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/client.c
+	"client.h"
+	"common.h"
+	"server.h"
+	"codes.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461408517 /media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/client.h
+
+1461238445 /media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/codes.h
+
+1461238439 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/codes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"codes.h"
+	"common.h"
+
+1461353984 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/common.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"common.h"
+
+1461314155 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/gestCompte.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<time.h>
+	"gestCompte.h"
+	"common.h"
+
+1461168814 /media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/gestCompte.h
+
+1461435565 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"client.h"
+	"server.h"
+	"codes.h"
+	"common.h"
+	"gestCompte.h"
+	"cartes.h"
+
+1461435410 source:/media/gtindo/86C61B87C61B76A1/Users/GTindo/Documents/USSD/server.c
+	"server.h"
+	"codes.h"
+	"common.h"
+	"cartes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
